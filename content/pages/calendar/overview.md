@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Calendar
+parent_type: CourseSection
 parent_uid: 761373a2-dca4-7216-bf9c-b59f96891b6c
 title: Calendar Overview
 uid: e4d7dd0c-c8e1-0703-8f60-b6eef5c2b65b

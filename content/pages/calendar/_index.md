@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 761373a2-dca4-7216-bf9c-b59f96891b6c
 ---
@@ -300,8 +302,7 @@ Oct. 30
 {{< tdopen >}}
 **Cultural Perspective I: Culture as Control  
 **  
-Individual Case Analysis Assignment Handed Out -- DUE November 6  
-  
+Individual Case Analysis Assignment Handed Out -- DUE November 6{{< sup "  \n" >}}  
 Today we will begin our discussion of culture and consider what it means for an organizational culture to be strong or weak. We will consider one useful model of organizational culture and see how it helps us better understand the Disney organization. And we will talk about the advantages and disadvantages of strong cultures -- such as the one shown on the video for the session -- for employees, shareholders and customers.  
   
 **Case:** Van Maanen, J. "The Smile Factory: Work at Disneyland."
