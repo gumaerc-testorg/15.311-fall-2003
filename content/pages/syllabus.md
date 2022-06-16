@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, coursework, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -40,9 +42,9 @@ _Preparation_
 
 The expectations of you are relatively simple: arrive punctually to class, be well prepared, and participate actively. There are several ways in which the materials in this course help you to do this:
 
-*   [Short Introductions]({{< baseurl >}}/pages/calendar): These have been provided for each session in the course outline to give you some background on the materials to be covered. You should read these first.
-*   [Study Questions]({{< baseurl >}}/pages/readings): These are there to guide you through the case material, helping you to focus on what's important.
-*   [Readings]({{< baseurl >}}/pages/readings): Most sessions have accompanying readings, which you are expected to complete. All class assignments and readings are in the 15.311 course packet available at the campus copy center.
+*   {{% resource_link 761373a2-dca4-7216-bf9c-b59f96891b6c "Short Introductions" %}}: These have been provided for each session in the course outline to give you some background on the materials to be covered. You should read these first.
+*   {{% resource_link efa92d06-493e-91ae-e8f3-6f9bac83b306 "Study Questions" %}}: These are there to guide you through the case material, helping you to focus on what's important.
+*   {{% resource_link efa92d06-493e-91ae-e8f3-6f9bac83b306 "Readings" %}}: Most sessions have accompanying readings, which you are expected to complete. All class assignments and readings are in the 15.311 course packet available at the campus copy center.
 
 _Participation (30%)_
 
@@ -52,7 +54,7 @@ _Team Project (50%)_
 
 Your team will work together on several assignments and exercises in 15.311. The most significant of these is that each team is required to produce a team project for the semester. This project will involve students going into the field and studying an organizational change initiative.
 
-For details about the team project, see the [projects]({{< baseurl >}}/pages/projects) page.
+For details about the team project, see the {{% resource_link 0b41b92a-1d18-bf08-608e-46e409bac8fe "projects" %}} page.
 
 _Individual Case Write-Up (20%)_
 
@@ -117,7 +119,7 @@ Given out Session 10 (October 30), Due Session 12 (December 6)
 
 _Special Sessions_
 
-We have designed this course to work in conjunction with 15.280 Communications (see the [schedule]({{< baseurl >}}/pages/calendar)). Thus, the classes will share certain assignments. Some of our required sessions will be offered jointly with the Career Development Office (in particular, Sessions 11 and 15 on Oct. 31 and Nov. 21). In addition, Prof. Roberto Fernandez and the Career Development Office will be offering an optional session on Hiring on Sept. 12.
+We have designed this course to work in conjunction with 15.280 Communications (see the {{% resource_link 761373a2-dca4-7216-bf9c-b59f96891b6c "schedule" %}}). Thus, the classes will share certain assignments. Some of our required sessions will be offered jointly with the Career Development Office (in particular, Sessions 11 and 15 on Oct. 31 and Nov. 21). In addition, Prof. Roberto Fernandez and the Career Development Office will be offering an optional session on Hiring on Sept. 12.
 
 Faculty
 -------
