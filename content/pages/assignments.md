@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the course assignments, including
+  an individual case write-up and a team project.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 29aaf2dc-0764-549b-479a-a9798305c763
 ---
@@ -14,7 +19,7 @@ The case write-up is worth 20% of your grade for 15.311.
 Team Project
 ------------
 
-Due dates for team project presentations and written reports are shown in the table below. For more information about this task, see the [projects]({{< baseurl >}}/pages/projects) page.
+Due dates for team project presentations and written reports are shown in the table below. For more information about this task, see the {{% resource_link 0b41b92a-1d18-bf08-608e-46e409bac8fe "projects" %}} page.
 
 {{< tableopen >}}
 {{< theadopen >}}

@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This calendar summary shows how some of the 15.311 topics are related
+  to topics in 15.280, Communication for Managers.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Calendar
+parent_type: CourseSection
 parent_uid: 761373a2-dca4-7216-bf9c-b59f96891b6c
 title: Calendar Overview
 uid: e4d7dd0c-c8e1-0703-8f60-b6eef5c2b65b
@@ -8,7 +13,7 @@ uid: e4d7dd0c-c8e1-0703-8f60-b6eef5c2b65b
 
 This calendar summary shows how some of the 15.311 topics are related to topics in [15.280](/courses/15-280-communication-for-managers-fall-2016), Communication for Managers.
 
-For a detailed explanation of each 15.311 lecture, see the full [calendar]({{< baseurl >}}/pages/calendar).  
+For a detailed explanation of each 15.311 lecture, see the full {{% resource_link 761373a2-dca4-7216-bf9c-b59f96891b6c "calendar" %}}.  
  
 
 {{< tableopen >}}
